@@ -143,6 +143,7 @@ export const DATA = {
     {
       title: "Servicenow Certified System Administrator",
       dates: "November 23rd - 25th, 2018",
+      location: "Hyderabad",
       description:
         "This certification validates my expertise in configuring, managing, and maintaining the ServiceNow platform. It covers user management, workflows, data schema, and automation to ensure efficient IT service management.",
       image:
@@ -153,6 +154,7 @@ export const DATA = {
     {
       title: "Servicenow Certified Application Developer",
       dates: "September 14th - 16th, 2018",
+      location: "Hyderabad",
       description:
         "With this certification, I have demonstrated my ability to build, extend, and customize applications on the ServiceNow platform. It includes scripting, UI development, security configurations, and integrating third-party services.",
       image:
@@ -163,6 +165,7 @@ export const DATA = {
     {
       title: "SalesForce AI Associate",
       dates: "March 23rd - 24th, 2018",
+      location: "Hyderabad",
       description:
         "This certification showcases my understanding of AI concepts within the Salesforce ecosystem, including AI-driven automation, data insights, and ethical considerations for implementing AI in customer relationship management (CRM).",
       image:
