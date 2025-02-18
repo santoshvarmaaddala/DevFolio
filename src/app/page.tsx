@@ -133,7 +133,7 @@ export default function Page() {
           <BlurFade delay={BLUR_FADE_DELAY * 13}>
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
                 <div className="inline-block rounded-lg bg-foreground text-background px-3 py-1 text-sm">
-                  Certifications
+                  Global Certifications
                 </div>
             </div>
           </BlurFade>
@@ -147,7 +147,6 @@ export default function Page() {
                   <HackathonCard
                     title={project.title}
                     description={project.description}
-                    location={project.location}
                     dates={project.dates}
                     image={project.image}
                     links={project.links}
