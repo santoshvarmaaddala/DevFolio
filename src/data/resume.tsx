@@ -57,7 +57,7 @@ export const DATA = {
       
       email: {
         name: "Send Email",
-        url: "#",
+        url: "mailto:santoshvarma2166@gmail.com",
         icon: Icons.email,
 
         navbar: true,
@@ -115,27 +115,28 @@ export const DATA = {
     },
     {
       title: "Event Management System",
-      href: "https://automatic.chat",
-      dates: "April 2023 - March 2024",
+      href: "https://github.com/santoshvarmaaddala/Event-Management-System",
+      dates: "Dec 2024 - Jan 2025",
       active: true,
       description:
-        "Developed an AI Customer Support Chatbot which automatically responds to customer support tickets using the latest GPT models.",
+        "The Event Management System (EMS) is a web application built using Flask to streamline event planning and organization. It allows users to create, manage, and track events efficiently, providing an intuitive interface for handling event details, participant registrations, and scheduling.",
       technologies: [
         "Flask",
         "Python",
         "Jinger-template",
-        "SqlAlchemy"
+        "SqlAlchemy",
+        "SqlLite"
       ],
       links: [
         {
           type: "source",
-          href: "https://automatic.chat",
+          href: "https://github.com/santoshvarmaaddala/Event-Management-System",
           icon: <Github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/ems.png",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
+        "",
     },
   ],
   hackathons: [
