@@ -19,7 +19,7 @@ export const DATA = {
     "Python",
     "Git",
     "FireBase",
-    "MangoDB",
+    "MongoDB",
     "SQL",
     "Postgresql",
     "Flask",
